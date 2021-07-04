@@ -1,0 +1,39 @@
+body {
+    background-color: #1A1A1D;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.color {
+    color: #C3073F;
+}
+
+.header {
+    display: flex;
+    margin: 5%;
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 5%;
+}
+
+.text {
+    width: 80%;
+
+}
+
+
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(#6F2232, #950740);
+    color: white;
+    padding: 10px 40px ;
+    font-size: 20px;
+    font-weight: bold;
+    
+    }
