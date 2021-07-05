@@ -42,4 +42,31 @@ p {
     margin: 5%;
 }
 
+.box-half {
+    
+    display: flex;
+    margin: 5%;
+    
+    
+}
+
+
+.ex-item {
+    text-align: center;
+    width: 50%;
+    border: 5px solid silver;
+    padding: 3%;
+    margin: 5%;
+    
+    
+    border-right: 15px solid #C3073F;
+}
+
+footer {
+    text-align: center;
+}
+.ex-item img {
+    width: 80%;
+    
+}
 
